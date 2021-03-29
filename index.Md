@@ -1,4 +1,4 @@
-### [blog](https://chaujohnthan.github.io)
+### [this is a blog](https://chaujohnthan.github.io)
 
 
 ### 2021-03-29 00:42am HKT ###
