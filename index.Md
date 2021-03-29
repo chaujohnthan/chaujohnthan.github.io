@@ -1,4 +1,4 @@
-### [this is a blog](https://chaujohnthan.github.io)
+### [a blog](https://chaujohnthan.github.io)
 
 
 ### 2021-03-29 00:42am HKT ###
@@ -22,9 +22,5 @@ now it is 07:42am, i did not sleep well, so i will have to sleep
 at noon today for serveral hours instead of an one-hour nap.
 
 
-
 if you have any question, please send me a message:
   chaujohnthan@msn.com
-
-[2021-03-28](20210328.md)
-
