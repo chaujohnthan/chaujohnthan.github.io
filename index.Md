@@ -1,8 +1,6 @@
-### .
+### 2021-03-29
 
-### 2021-03-29 00:42am HKT ###
-
-bill clinton woke me up 3 times today with neural control device,
+00:42AM, bill clinton woke me up 3 times today with neural control device,
 which had been implanted in my head by him 12yrs ago while i 
 was asleep.
 
@@ -12,9 +10,7 @@ will be tired of
 waiting, so i may go to sleep then.
 
 
-### 2021-03-29 03:30am HKT ###
-
-i felt like bill might have gone to save an african from famine,
+03:30AM, i felt like bill might have gone to save an african from famine,
 so i decided to go to bed. nope, i was woken up at 04:24am again. 
 
 now it is 07:42am, due to loss of sleep, i will have to sleep 
