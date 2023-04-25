@@ -1,0 +1,41 @@
+
+:root {
+--xfont: 21px;
+--xtbfont: 23px;
+--xbgcolor: #333333;
+}
+
+/*
+getComputedStyle(element).getPropertyValue("--my-var");
+element.style.setProperty("--my-var", jsVar + 4);
+*/
+
+body {
+margin-left:20px;
+margin-right:40px;
+width: 100%;
+font-size: var(--xfont);
+font-family: Tahoma, sans-serif;
+background-color: var(--xbgcolor); 
+color: #cccccc;
+}
+
+table {
+background-color: var(--xbgcolor); 
+font-size: var(--xtbfont);
+}
+
+pre
+{
+font-size: 18px;
+}
+
+i
+{
+color: #eeffcc;
+}
+
+a {
+color: #33cc66;
+}
+
