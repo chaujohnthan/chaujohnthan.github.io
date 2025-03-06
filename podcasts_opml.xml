@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<opml version="1.0">
+  <head>
+    <title>Pocket Casts Feeds</title>
+  </head>
+  <body>
+    <outline text="feeds">
+      <outline type="rss" text="RealClearPolitics Podcast" xmlUrl="https://feeds.simplecast.com/pzzjlbXr" />
+      <outline type="rss" text="Inside Europe" xmlUrl="https://rss.dw.com/xml/podcast_inside-europe" />
+      <outline type="rss" text="Your World Tonight" xmlUrl="https://www.cbc.ca/podcasting/includes/w6.xml" />
+      <outline type="rss" text="State of the Union" xmlUrl="https://feeds.megaphone.fm/WMHY9982360035" />
+      <outline type="rss" text="Talking Europe" xmlUrl="https://partners-api.francemm.com/audio-podcast/f24/en/WB4897049-F24-EN-20091009/applepodcast" />
+      <outline type="rss" text="WSJ What’s News" xmlUrl="https://video-api.wsj.com/podcast/rss/wsj/whats-news" />
+      <outline type="rss" text="Radio Sweden" xmlUrl="https://api.sr.se/api/rss/pod/itunes/4901" />
+      <outline type="rss" text="The Stacks" xmlUrl="https://rss.art19.com/the-stacks" />
+      <outline type="rss" text="Morning Ireland" xmlUrl="https://www.rte.ie/radio1/podcast/podcast_morningireland.xml" />
+      <outline type="rss" text="ABC News Daily" xmlUrl="https://www.abc.net.au/feeds/9443166/podcast.xml" />
+      <outline type="rss" text="The World This Week" xmlUrl="https://apis.france24.com/products/get_product/f24_getpodcast_audio_by_nid?token_application=33d60288-7e20-11e9-884b-005056a9c687&amp;program.entrepriseId=WB4909973-F24-EN-20091026" />
+      <outline type="rss" text="The News Agents" xmlUrl="https://feeds.captivate.fm/the-news-agents/" />
+      <outline type="rss" text="The New Yorker: Fiction" xmlUrl="https://publicfeeds.net/f/6232/new-yorker-fiction" />
+      <outline type="rss" text="Hardcore Literature" xmlUrl="https://benjaminmcevoy.libsyn.com/rss" />
+      <outline type="rss" text="The Source with Kaitlan Collins" xmlUrl="https://feeds.megaphone.fm/WMHY9548726236" />
+      <outline type="rss" text="The Daily" xmlUrl="https://feeds.simplecast.com/54nAGcIl" />
+      <outline type="rss" text="Fresh Air" xmlUrl="https://feeds.npr.org/381444908/podcast.xml" />
+      <outline type="rss" text="Classic Audiobook Collection" xmlUrl="https://feeds.megaphone.fm/CLR6269575268" />
+      <outline type="rss" text="The Brian Lehrer Show" xmlUrl="https://feeds.simplecast.com/C8a1jmw4" />
+      <outline type="rss" text="The New Yorker: The Writer's Voice - New Fiction from The New Yorker" xmlUrl="https://publicfeeds.net/f/6198/the-writers-voice" />
+      <outline type="rss" text="Here &amp; Now" xmlUrl="https://rss.wbur.org/hereandnow/podcast" />
+      <outline type="rss" text="Face the Nation with Margaret Brennan" xmlUrl="https://feeds.megaphone.fm/CBS2753513555" />
+      <outline type="rss" text="New Books in Literature" xmlUrl="https://feeds.megaphone.fm/LIT3662756671" />
+      <outline type="rss" text="Front Burner" xmlUrl="https://www.cbc.ca/podcasting/includes/frontburner.xml" />
+    </outline>
+  </body>
+</opml>
